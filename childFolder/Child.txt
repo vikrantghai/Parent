@@ -2,3 +2,4 @@ Hello child
 child at own repository
 core child repo
 commit from parent
+pull this file from child to parent
