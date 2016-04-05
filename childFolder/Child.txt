@@ -1,2 +1,3 @@
 Hello child
-Change by Shubham
+child at own repository
+core child repo
