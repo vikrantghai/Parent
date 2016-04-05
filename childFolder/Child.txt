@@ -1,3 +1,4 @@
 Hello child
 child at own repository
 core child repo
+commit from parent
