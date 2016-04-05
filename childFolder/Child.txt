@@ -3,3 +3,4 @@ child at own repository
 core child repo
 commit from parent
 pull this file from child to parent
+pull this file from parent to child
